@@ -1,0 +1,4 @@
+<properties>
+    <property id="reminders" type="boolean">true</property>
+    <property id="correction" type="number">2</property>
+</properties>

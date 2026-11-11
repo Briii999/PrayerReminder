@@ -1,0 +1,5 @@
+<strings>
+    <string id="AppName">Salat Banjarmasin</string>
+    <string id="ReminderLabel">Aktifkan pengingat</string>
+    <string id="CorrectionLabel">Koreksi semua waktu (menit, -15 hingga 15)</string>
+</strings>

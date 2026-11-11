@@ -1,0 +1,8 @@
+<settings>
+    <setting propertyKey="@Properties.reminders" title="@Strings.ReminderLabel">
+        <settingConfig type="boolean" />
+    </setting>
+    <setting propertyKey="@Properties.correction" title="@Strings.CorrectionLabel">
+        <settingConfig type="numeric" min="-15" max="15" />
+    </setting>
+</settings>

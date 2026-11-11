@@ -1,0 +1,6 @@
+<menu id="MainMenu">
+    <menu-item id="toggle" label="Aktif / mati pengingat" />
+    <menu-item id="plus" label="Koreksi +1 menit" />
+    <menu-item id="minus" label="Koreksi -1 menit" />
+    <menu-item id="test" label="Tes getaran" />
+</menu>
